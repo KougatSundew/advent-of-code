@@ -1,0 +1,7 @@
+target
+*.class
+
+.vscode
+.scala-build
+.metals
+.bsp
